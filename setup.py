@@ -10,7 +10,7 @@ setup(
     description="Command line password manager",
     long_description=readme(),
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/fillwo/pwd_manager",
     author="Philipp Wolf",
     author_email="ph.wolf89@gmail.com",
     license="MIT",
